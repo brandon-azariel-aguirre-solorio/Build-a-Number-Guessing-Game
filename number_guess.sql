@@ -147,12 +147,6 @@ INSERT INTO public.games VALUES (8, 7, 487);
 
 INSERT INTO public.users VALUES (1, 'brandon');
 INSERT INTO public.users VALUES (2, 'goku');
-INSERT INTO public.users VALUES (3, 'user_1782434243569');
-INSERT INTO public.users VALUES (4, 'user_1782434243568');
-INSERT INTO public.users VALUES (5, 'user_1782434494999');
-INSERT INTO public.users VALUES (6, 'user_1782434494998');
-INSERT INTO public.users VALUES (7, 'user_1782434815615');
-INSERT INTO public.users VALUES (8, 'user_1782434815614');
 
 
 --
